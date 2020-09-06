@@ -1,3 +1,7 @@
+'''
+imports
+'''
+
 # incoming socket
 def __init__(self, config):
     signal.signal(signal.SIGINT, self.shutdown) # ctrl + c
