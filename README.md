@@ -1,4 +1,6 @@
 <h4 align='center'> a simple proxy server to re-route requests </h4>
 <hr>
 
-```python3 -m proxy_sever```
+```python3
+python3 -m proxy_sever
+```
