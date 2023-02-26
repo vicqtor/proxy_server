@@ -2,5 +2,5 @@
 <hr>
 
 ```python3
-python3 -m proxy_sever
+python3 -m sever
 ```
